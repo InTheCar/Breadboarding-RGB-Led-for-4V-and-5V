@@ -10,7 +10,8 @@ Why 4,2V and not 4V? 4,2V is the end-of-charge voltage of a li ion a battery pac
 The RGB is a [LL-509RGBC2E-006](https://github.com/InTheCar/Breadboarding-RGB-Led-for-4V-and-5V/blob/main/Data%20Sheets/LL-509RGBC2E-006.pdf). The used resistors are 0,6W resistors.
 - 1x RGB LED LL-509RGBC2E-006
 - 1x PBA
-- 
+- 2x resistor 56 Ohm
+- 1x resistor 149 Ohm
 
 ## Calculation of the resistors
 
