@@ -14,6 +14,8 @@ The RGB is a [LL-509RGBC2E-006](https://github.com/InTheCar/Breadboarding-RGB-Le
 
 ## Calculation of the resistors
 
+![5V resistor calculation](https://github.com/InTheCar/Breadboarding-RGB-Led-for-4V-and-5V/blob/main/used%20pictures/calculation%20for%205V.png "5V calculation")
+
 
 ## The circuit
 
