@@ -20,10 +20,15 @@ For 5V I found some resistors in my box:
 
 For the LED green and blue -> 56 Ohm
 
-For the LED red -> 149 Ohm
+
+
 
 ![4,2V resistor calculation](https://github.com/InTheCar/Breadboarding-RGB-Led-for-4V-and-5V/blob/main/used%20pictures/calculation%20for%204.2V.png "4,2V calculation")
+Here it's a little bit complecated. The voltage of the  battery pack will go down. We have to use resistos which are small as possible.
 
+For the LED green and blue -> 10 Ohm
+
+For the LED red -> 110 Ohm
 
 ## The circuit
 
